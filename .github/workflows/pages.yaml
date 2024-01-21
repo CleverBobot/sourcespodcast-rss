@@ -29,8 +29,8 @@ jobs:
 
       - name: Validate _site/feed.xml
         run: |
-          sudo apt-get install -y rxp
-          rxp -V _site/feed.xml
+          sudo apt-get install -y xmllint
+          xmllint --valid _site/feed.xml
 
       - name: Upload _site directory
         uses: actions/upload-pages-artifact@v3.0.0
