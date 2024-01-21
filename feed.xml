@@ -6,7 +6,7 @@
     <atom:link href="https://cleverbobot.github.io/sourcespodcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description><![CDATA[<p>On this podcast, we discuss mental health and how it ties into our lives.</p>]]></description>
-    <lastBuildDate>Sun, 21 Jan 2024 02:07:21 PST</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 12:22:04 PST</lastBuildDate>
     <language>en</language>
     <copyright><![CDATA[Individual contributors © 2023]]></copyright>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
@@ -47,6 +47,22 @@
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Mon, 20 Nov 2023 22:41:06 GMT</pubDate>
       <podcast:transcript url="https://drive.google.com/uc?export=download&amp;id=1DzIWj2oXYbITCyUCUR05S8NDjgmHR-7R" type="text/plain"/>
+    </item>
+    <item>
+      <title><![CDATA[Seasonal Affective Disorder]]></title>
+      <itunes:title><![CDATA[Seasonal Affective Disorder]]></itunes:title>
+      <description><![CDATA[<p>TW: Mentions of depression.</p><p>It's late, but it's here! In this episode, we talk about seasonal affective disorder (aka seasonal depression): what it is, our experiences with it, and how we deal with it, and how it relates to Wintertime.</p>]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vgY8tcIIEHOG4otY870k2SUOdFt8prox" length="32324367" type="audio/mpeg"/>
+      <guid isPermaLink="false">38b4eee2-2749-4c25-8ce5-535bfe530103</guid>
+      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+      <itunes:duration>1347</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 21 Jan 2024 12:21:55 PST</pubDate>
     </item>
   </channel>
 </rss>
