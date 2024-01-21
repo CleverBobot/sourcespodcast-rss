@@ -32,7 +32,7 @@ jobs:
 
       - name: RSS validation
         run: |
-          npx feed-validator -c _site/feed.xml
+          npx feed-validator _site/feed.xml
 
       - name: Upload _site directory
         uses: actions/upload-pages-artifact@v3.0.0
