@@ -27,10 +27,12 @@ jobs:
          mkdir _site
          cp feed.xml _site/feed.xml
 
-      - name: Validate _site/feed.xml
+      - name: Setup node
+        uses: actions/setup-node@v4
+
+      - name: RSS validation
         run: |
-          sudo apt-get install -y libxml2-utils
-          xmllint --nonet --noout --valid _site/feed.xml
+          npx feed-validator -c _site/feed.xml
 
       - name: Upload _site directory
         uses: actions/upload-pages-artifact@v3.0.0
