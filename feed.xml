@@ -10,9 +10,9 @@
     <lastBuildDate>Tue, 28 Nov 2023 17:48:45 GMT</lastBuildDate>
     <language>en</language>
     <copyright><![CDATA[Individual contributors © 2023]]></copyright>
-    <itunes:image href="https://drive.google.com/uc?export=download&id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
     <image>
-      <url>https://drive.google.com/uc?export=download&id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"</url>
+      <url>https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"</url>
       <title>We Belong Podcast</title>
       <link>https://linktr.ee/sourcesofstrength_sheldon</link>
     </image>
@@ -35,9 +35,9 @@
       <itunes:title><![CDATA[Burnout]]></itunes:title>
       <description><![CDATA[<p>TW: Mentions of suicide and discussion of seasonal depression.</p><p>In this episode, we talk about burnout: what it is, our experiences with it, and how we deal with it. At the end of the episode, we also discuss a little bit about seasonal depression.</p>]]></description>
       <link>https://rss.com/podcasts/webelong/1233246</link>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1dYUBl0L8uEbg112bvdFYqBIWLQwjqhT6" length="37398663" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dYUBl0L8uEbg112bvdFYqBIWLQwjqhT6" length="37398663" type="audio/mpeg"/>
       <guid isPermaLink="false">8c579a69-db57-41a5-9e00-f96f161da0ee</guid>
-      <itunes:image href="https://drive.google.com/uc?export=download&id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
       <itunes:duration>2337</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>2</itunes:season>
@@ -46,7 +46,7 @@
       <podcast:episode>1</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Mon, 20 Nov 2023 22:41:06 GMT</pubDate>
-      <podcast:transcript url="https://drive.google.com/uc?export=download&id=1DzIWj2oXYbITCyUCUR05S8NDjgmHR-7R" type="text/plain"/>
+      <podcast:transcript url="https://drive.google.com/uc?export=download&amp;id=1DzIWj2oXYbITCyUCUR05S8NDjgmHR-7R" type="text/plain"/>
     </item>
   </channel>
 </rss>
