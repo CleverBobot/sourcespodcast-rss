@@ -27,6 +27,12 @@ jobs:
          mkdir _site
          cp feed.xml _site/feed.xml
 
+      - name: Validate all XML and RSS feeds
+        uses: anyone-developer/anyone-validate-xml@0.9.2
+        with:
+          read-path: "_site"
+          file-extension: "xml,rss"
+
       - name: Upload _site directory
         uses: actions/upload-pages-artifact@v3.0.0
 
