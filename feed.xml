@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[We Belong Podcast]]></title>
+    <link>https://linktr.ee/sourcesofstrength_sheldon</link>
+    <atom:link href="$REPLACEME$" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[<p>On this podcast, we discuss mental health and how it ties into our lives.</p>]]></description>
+    <generator>RSS.com v2.11.0</generator>
+    <lastBuildDate>Tue, 28 Nov 2023 17:48:45 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[Individual contributors © 2023]]></copyright>
+    <itunes:image href="https://drive.google.com/uc?export=download&id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+    <image>
+      <url>https://drive.google.com/uc?export=download&id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"</url>
+      <title>We Belong Podcast</title>
+      <link>https://linktr.ee/sourcesofstrength_sheldon</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <podcast:license>Individual contributors © 2023, 2024</podcast:license>
+    <itunes:author>Sheldon High School Sources Of Strength 2023-2024</itunes:author>
+    <itunes:owner>
+      <itunes:name>Sheldon High School Sources Of Strength 2023-2024</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <item>
+      <title><![CDATA[Burnout]]></title>
+      <itunes:title><![CDATA[Burnout]]></itunes:title>
+      <description><![CDATA[<p>TW: Mentions of suicide and discussion of seasonal depression.</p><p>In this episode, we talk about burnout: what it is, our experiences with it, and how we deal with it. At the end of the episode, we also discuss a little bit about seasonal depression.</p>]]></description>
+      <link>https://rss.com/podcasts/webelong/1233246</link>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1dYUBl0L8uEbg112bvdFYqBIWLQwjqhT6" length="37398663" type="audio/mpeg"/>
+      <guid isPermaLink="false">8c579a69-db57-41a5-9e00-f96f161da0ee</guid>
+      <itunes:image href="https://drive.google.com/uc?export=download&id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+      <itunes:duration>2337</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>1</itunes:episode
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 20 Nov 2023 22:41:06 GMT</pubDate>
+      <podcast:transcript url="https://drive.google.com/uc?export=download&id=1DzIWj2oXYbITCyUCUR05S8NDjgmHR-7R" type="text/plain"/>
+    </item>
+  </channel>
+</rss>
