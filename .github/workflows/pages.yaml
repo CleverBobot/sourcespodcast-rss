@@ -1,0 +1,21 @@
+name: Publish Feed
+
+on:
+ push:
+    branches:
+      - main
+
+jobs:
+ build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - run: |
+        mkdir _site
+        cp feed.xml _site/feed.xml
+
+    - name: Upload _site directory
+      uses: actions/upload-pages-artifact@v3.0.0
