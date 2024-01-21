@@ -3,7 +3,7 @@
   <channel>
     <title><![CDATA[We Belong Podcast]]></title>
     <link>https://linktr.ee/sourcesofstrength_sheldon</link>
-    <atom:link href="$REPLACEME$" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/CleverBobot/sourcespodcast-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description><![CDATA[<p>On this podcast, we discuss mental health and how it ties into our lives.</p>]]></description>
     <generator>RSS.com v2.11.0</generator>
