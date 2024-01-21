@@ -29,7 +29,7 @@ jobs:
 
       - name: Validate _site/feed.xml
         run: |
-          sudo apt-get install -y xmllint
+          sudo apt-get install -y libxml2-utils
           xmllint --valid _site/feed.xml
 
       - name: Upload _site directory
