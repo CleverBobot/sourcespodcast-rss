@@ -30,7 +30,7 @@ jobs:
       - name: Validate _site/feed.xml
         run: |
           sudo apt-get install -y libxml2-utils
-          xmllint --valid _site/feed.xml
+          xmllint --nonet --noout --valid _site/feed.xml
 
       - name: Upload _site directory
         uses: actions/upload-pages-artifact@v3.0.0
