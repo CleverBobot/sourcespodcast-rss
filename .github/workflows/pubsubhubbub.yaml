@@ -1,0 +1,17 @@
+name: Update RSS on PubSubHubbub
+
+on:
+  push:
+    paths:
+    - 'feed.xml'
+    - '.github/workflows/pubsubhubbub.yaml'
+
+jobs:
+ run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Run pubsub.sh
+        run: |
+         chmod +x ./pubsub.sh
+         ./pubsub.sh
