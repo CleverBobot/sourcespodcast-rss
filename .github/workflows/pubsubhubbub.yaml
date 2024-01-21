@@ -2,7 +2,7 @@ name: Update RSS on PubSubHubbub
 
 on:
   workflow_run:
-    workflows: [Publish Feed]
+    workflows: ["Publish Feed"]
     types:
       - completed
 
