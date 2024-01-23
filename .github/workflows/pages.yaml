@@ -44,3 +44,14 @@ jobs:
         uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
         env:
           GITHUB_TOKEN: ${{ github.token }}
+
+
+ pubsub-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Run pubsub.sh
+        run: |
+         chmod +x ./pubsub.sh
+         ./pubsub.sh
+
