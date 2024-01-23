@@ -30,9 +30,11 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v4
 
-      - name: RSS validation
+      - name: Validate _site/feed.xml
         run: |
-          npx feed-validator _site/feed.xml
+          sudo apt-get install -y xmllint
+          sudo apt-get install -y libxml2-utils
+          xmllint --noout _site/feed.xml
 
       - name: Upload _site directory
         uses: actions/upload-pages-artifact@v3.0.0
