@@ -6,9 +6,9 @@
     <atom:link href="https://cleverbobot.github.io/sourcespodcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description><![CDATA[<p>On this podcast, we discuss mental health and how it ties into our lives.</p>]]></description>
-    <lastBuildDate>Sun, 21 Jan 2024 12:22:04 PST</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 08:16:23 GMT</lastBuildDate>
     <language>en</language>
-    <copyright><![CDATA[Individual contributors © 2023]]></copyright>
+    <copyright><![CDATA[Individual contributors © 2024]]></copyright>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
     <image>
       <url>https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay</url>
@@ -45,7 +45,7 @@
       <itunes:episode>1</itunes:episode>
       <podcast:episode>1</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Mon, 20 Nov 2023 22:41:06 GMT</pubDate>
+      <pubDate>Mon, 20 Nov 2023 22:41:30 GMT</pubDate>
       <podcast:transcript url="https://drive.google.com/uc?export=download&amp;id=1DzIWj2oXYbITCyUCUR05S8NDjgmHR-7R" type="text/plain"/>
     </item>
     <item>
@@ -63,6 +63,22 @@
       <podcast:episode>2</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Sun, 21 Jan 2024 12:21:55 PST</pubDate>
-    </item>
+  </item>
+  <item>
+	  <title><![CDATA[Sports and Mental Health]]></title>
+	  <itunes:title><![CDATA[Sports and Mental Health]]></itunes:title>
+	  <description><![CDATA[<p>TW: Discussion of depression.</p><p>We're back and better than ever! In this episode, we tackle the sports culture of Sheldon, discussing both the ups and the downs.</p>]]></description>
+	  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AG6uTsPLSkGIjy3moAb9ekx9nuBX-F8d" length="83328981" type="audio/mpeg"/>
+	  <guid isPermaLink="false">dcdcfa49-e258-4124-a320-b680e410f01f</guid>
+	  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+	  <itunes:duration>3471</itunes:duration>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>2</itunes:season>
+	  <podcast:season>2</podcast:season>
+	  <itunes:episode>3</itunes:episode>
+	  <podcast:episode>3</podcast:episode>
+	  <itunes:explicit>false</itunes:explicit>
+	  <pubDate>Sat, 02 Mar 2024 08:16:23 GMT</pubDate>
+  </item>
   </channel>
 </rss>
