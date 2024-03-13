@@ -6,7 +6,7 @@
     <atom:link href="https://cleverbobot.github.io/sourcespodcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description><![CDATA[<p>On this podcast, we discuss mental health and how it ties into our lives.</p>]]></description>
-    <lastBuildDate>Sat, 02 Mar 2024 08:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 13:09:45 PST</lastBuildDate>
     <language>en</language>
     <copyright><![CDATA[Individual contributors © 2024]]></copyright>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
@@ -79,6 +79,22 @@
 	  <podcast:episode>3</podcast:episode>
 	  <itunes:explicit>false</itunes:explicit>
 	  <pubDate>Sat, 02 Mar 2024 08:16:23 GMT</pubDate>
+  </item>
+  <item>
+	  <title><![CDATA[Social media, trends, cliques, and mental health]]></title>
+	  <itunes:title><![CDATA[Social media, trends, cliques, and mental health]]></itunes:title>
+	  <description><![CDATA[<p>In this episode, we talk about social media, trends and social conformity, cliques, and mental health in a 21st-century high school social environment.</p><p><a href="https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122">Here</a> is the supplemental article about TikTok that Vera menntioned in the episode.</p>]]></description>
+	  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HvgaoXecKuFrFvsMckmmXolHsYN5zoVY" length="60441944" type="audio/mpeg"/>
+	  <guid isPermaLink="false">dc67e038-6205-4395-9324-d544a46c700a</guid>
+	  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+	  <itunes:duration>2518</itunes:duration>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>2</itunes:season>
+	  <podcast:season>2</podcast:season>
+	  <itunes:episode>4</itunes:episode>
+	  <podcast:episode>4</podcast:episode>
+	  <itunes:explicit>false</itunes:explicit>
+	  <pubDate>Wed, 13 Mar 2024 13:08:45 PST</pubDate>
   </item>
   </channel>
 </rss>
