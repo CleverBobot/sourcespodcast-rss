@@ -34,21 +34,25 @@ jobs:
           filters: |
             rss:
             - '*.xml'
+            publishedContent:
+            - '*.xml'
 
       - name: Setup node
         uses: actions/setup-node@v4
 
       - name: Validate _site/feed.xml
+        if: steps.changes.outputs.rss == 'true'
         run: |
           sudo apt-get update
           sudo apt-get install -y libxml2-utils
           xmllint --noout _site/feed.xml && echo "XML file validates"
 
       - name: Upload _site directory
+        if: steps.changes.outputs.publishedContent == 'true'
         uses: actions/upload-pages-artifact@v3.0.0
 
-
       - name: Deploy to GitHub Pages
+        if: steps.changes.outputs.publishedContent == 'true'
         id: deployment
         uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
         env:
@@ -59,4 +63,3 @@ jobs:
         run: |
          chmod +x ./pubsub.sh
          ./pubsub.sh
-
