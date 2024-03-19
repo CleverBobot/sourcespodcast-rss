@@ -30,19 +30,25 @@ jobs:
 
       - uses: dorny/paths-filter@v3
         id: changes
-        with:
+        with: # Explanation: we might want to publish other files later, so add a generic publishedContent filter
           filters: |
             rss:
             - '*.xml'
             publishedContent:
             - '*.xml'
 
-      - name: Validate _site/feed.xml
+      - name: Validate feed.xml
         if: steps.changes.outputs.rss == 'true'
         run: |
           sudo apt-get update
           sudo apt-get install -y libxml2-utils
-          xmllint --noout _site/feed.xml && echo "XML file validates"
+          xmllint --noout ./feed.xml && echo "XML file validates"
+
+      - name: Compile _site files
+        if: steps.changes.outputs.publishedContent == 'true'
+        run: |
+         mkdir _site
+         cp feed.xml _site/feed.xml
 
       - name: Upload _site directory
         if: steps.changes.outputs.publishedContent == 'true'
