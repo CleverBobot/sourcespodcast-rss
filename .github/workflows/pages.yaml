@@ -24,10 +24,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - run: |
-         mkdir _site
-         cp feed.xml _site/feed.xml
-
       - uses: dorny/paths-filter@v3
         id: changes
         with: # Explanation: we might want to publish other files later, so add a generic publishedContent filter
