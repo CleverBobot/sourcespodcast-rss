@@ -46,12 +46,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
 
-
- pubsub-update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - name: Run pubsub.sh
+      - name: Update on pubsubhubbub
         run: |
          chmod +x ./pubsub.sh
          ./pubsub.sh
