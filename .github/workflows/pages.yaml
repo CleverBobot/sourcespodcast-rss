@@ -37,9 +37,6 @@ jobs:
             publishedContent:
             - '*.xml'
 
-      - name: Setup node
-        uses: actions/setup-node@v4
-
       - name: Validate _site/feed.xml
         if: steps.changes.outputs.rss == 'true'
         run: |
