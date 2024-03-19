@@ -4,6 +4,7 @@ on:
  push:
     branches:
       - main
+ workflow_dispatch:
 
 jobs:
  build:
@@ -27,6 +28,13 @@ jobs:
          mkdir _site
          cp feed.xml _site/feed.xml
 
+      - uses: dorny/paths-filter@v3
+        id: changes
+        with:
+          filters: |
+            rss:
+            - '*.xml'
+
       - name: Setup node
         uses: actions/setup-node@v4
 
@@ -47,6 +55,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
 
       - name: Update on pubsubhubbub
+        if: steps.changes.outputs.rss == 'true'
         run: |
          chmod +x ./pubsub.sh
          ./pubsub.sh
