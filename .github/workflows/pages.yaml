@@ -1,4 +1,4 @@
-name: Publish Feed
+name: Publish RSS feed
 
 on:
  push:
@@ -57,6 +57,9 @@ jobs:
 
       - name: Update on pubsubhubbub
         if: steps.changes.outputs.rss == 'true'
+        env:
+          FEED_BASE_URL: ${{steps.deployment.outputs.page_url}}
         run: |
+         echo $FEED_BASE_URL
          chmod +x ./pubsub.sh
          ./pubsub.sh
