@@ -6,7 +6,7 @@
     <atom:link href="https://cleverbobot.github.io/sourcespodcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description><![CDATA[<p>On this podcast, we discuss mental health and how it ties into our lives.</p>]]></description>
-    <lastBuildDate>Thu, 28 Mar 2024 01:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 12:50:28 +0000</lastBuildDate>
     <language>en</language>
     <copyright><![CDATA[Individual contributors © 2024]]></copyright>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
@@ -100,8 +100,8 @@
 	  <title><![CDATA[Feminism (part 1)]]></title>
 	  <itunes:title><![CDATA[Feminism (part 1)]]></itunes:title>
 	  <description><![CDATA[<p>In this episode, we talk about feminism: what it is and our relationships to gender.</p><p>In particular, this episode focuses on feminine and masculine sterotypes, as well as feminist spaces.</p><p>Note: This episode is split into multiple parts. More episodes are coming after the break, stay tuned!</p>]]></description>
-	  <enclosure url="https://drive.google.com/uc?export=download&amp;id=11TxDbVNmjIq4JMuRtsmj3fEzJTqBUzmb" length="25651681" type="audio/mpeg"/>
-	  <guid isPermaLink="false">351601b6-e006-4f34-b0a0-a182e555e7de</guid>
+	  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-Pu_f45agtPM5WQvVAn6XGFXQphX3xUh" length="25651681" type="audio/mpeg"/>
+	  <guid isPermaLink="false">6b499809-d54e-424d-a589-a176e21d9d4d</guid>
 	  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
 	  <itunes:duration>1830</itunes:duration>
 	  <itunes:episodeType>full</itunes:episodeType>
@@ -110,7 +110,7 @@
 	  <itunes:episode>5</itunes:episode>
 	  <podcast:episode>5</podcast:episode>
 	  <itunes:explicit>false</itunes:explicit>
-	  <pubDate>Thu, 28 Mar 2024 01:01:03 +0000</pubDate>
+	  <pubDate>Wed, 28 Mar 2024 12:51:10 PST</pubDate>
   </item>
 
   </channel>
