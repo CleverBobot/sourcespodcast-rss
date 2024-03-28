@@ -6,7 +6,7 @@
     <atom:link href="https://cleverbobot.github.io/sourcespodcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description><![CDATA[<p>On this podcast, we discuss mental health and how it ties into our lives.</p>]]></description>
-    <lastBuildDate>Wed, 27 Mar 2024 21:26:30 PST</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 01:01:49 +0000</lastBuildDate>
     <language>en</language>
     <copyright><![CDATA[Individual contributors © 2024]]></copyright>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
@@ -110,7 +110,7 @@
 	  <itunes:episode>5</itunes:episode>
 	  <podcast:episode>5</podcast:episode>
 	  <itunes:explicit>false</itunes:explicit>
-	  <pubDate>Wed, 27 Mar 2024 21:26:01 PST</pubDate>
+	  <pubDate>Thu, 28 Mar 2024 01:01:03 +0000</pubDate>
   </item>
 
   </channel>
