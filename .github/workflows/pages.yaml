@@ -48,7 +48,7 @@ jobs:
 
       - name: Upload _site directory
         if: steps.changes.outputs.publishedContent == 'true'
-        uses: actions/upload-pages-artifact@v3.0.0
+        uses: actions/upload-pages-artifact@v3.0.1
 
       - name: Deploy to GitHub Pages
         if: steps.changes.outputs.publishedContent == 'true'
