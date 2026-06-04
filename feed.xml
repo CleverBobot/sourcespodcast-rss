@@ -9,9 +9,9 @@
     <lastBuildDate>Fri, 29 Mar 2024 12:50:28 +0000</lastBuildDate>
     <language>en</language>
     <copyright><![CDATA[Individual contributors © 2024]]></copyright>
-    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+    <itunes:image href="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/cover-latest.png"/>
     <image>
-      <url>https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay</url>
+      <url>https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/cover-latest.png</url>
       <title>We Belong Podcast</title>
       <link>https://linktr.ee/sourcesofstrength_sheldon</link>
     </image>
@@ -35,9 +35,9 @@
       <itunes:title><![CDATA[Burnout]]></itunes:title>
       <description><![CDATA[<p>TW: Mentions of suicide and discussion of seasonal depression.</p><p>In this episode, we talk about burnout: what it is, our experiences with it, and how we deal with it. At the end of the episode, we also discuss a little bit about seasonal depression.</p>]]></description>
       <link>https://rss.com/podcasts/webelong/1233246</link>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dYUBl0L8uEbg112bvdFYqBIWLQwjqhT6" length="37398663" type="audio/mpeg"/>
+      <enclosure url="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/episode-audio/s2_e1_burnout.mp3" length="37398663" type="audio/mpeg"/>
       <guid isPermaLink="false">8c579a69-db57-41a5-9e00-f96f161da0ee</guid>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+      <itunes:image href="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/cover-latest.png"/>
       <itunes:duration>2337</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>2</itunes:season>
@@ -46,15 +46,15 @@
       <podcast:episode>1</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Mon, 20 Nov 2023 22:41:30 GMT</pubDate>
-      <podcast:transcript url="https://drive.google.com/uc?export=download&amp;id=1DzIWj2oXYbITCyUCUR05S8NDjgmHR-7R" type="text/plain"/>
+      <podcast:transcript url="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/episode-transcript/s2_e1_burnout_transcript.txt" type="text/plain"/>
     </item>
     <item>
       <title><![CDATA[Seasonal Affective Disorder]]></title>
       <itunes:title><![CDATA[Seasonal Affective Disorder]]></itunes:title>
       <description><![CDATA[<p>TW: Mentions of depression.</p><p>It's late, but it's here! In this episode, we talk about seasonal affective disorder (aka seasonal depression): what it is, our experiences with it, and how we deal with it, and how it relates to Wintertime.</p>]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vgY8tcIIEHOG4otY870k2SUOdFt8prox" length="32324367" type="audio/mpeg"/>
+      <enclosure url="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/episode-audio/s2_e2_seasonal_affective_disorder.mp3" length="32324367" type="audio/mpeg"/>
       <guid isPermaLink="false">38b4eee2-2749-4c25-8ce5-535bfe530103</guid>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+      <itunes:image href="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/cover-latest.png"/>
       <itunes:duration>1347</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>2</itunes:season>
@@ -68,9 +68,9 @@
 	  <title><![CDATA[Sports and Mental Health]]></title>
 	  <itunes:title><![CDATA[Sports and Mental Health]]></itunes:title>
 	  <description><![CDATA[<p>TW: Discussion of depression.</p><p>We're back and better than ever! In this episode, we tackle the sports culture of Sheldon, discussing both the ups and the downs.</p>]]></description>
-	  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AG6uTsPLSkGIjy3moAb9ekx9nuBX-F8d" length="83328981" type="audio/mpeg"/>
+	  <enclosure url="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/episode-audio/Sources%20of%20Strength%20EDITED%2001-24-24%20sports%20and%20cliques.mp3" length="83328981" type="audio/mpeg"/>
 	  <guid isPermaLink="false">dcdcfa49-e258-4124-a320-b680e410f01f</guid>
-	  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+	  <itunes:image href="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/cover-latest.png"/>
 	  <itunes:duration>3471</itunes:duration>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:season>2</itunes:season>
@@ -84,9 +84,9 @@
 	  <title><![CDATA[Social media, trends, cliques, and mental health]]></title>
 	  <itunes:title><![CDATA[Social media, trends, cliques, and mental health]]></itunes:title>
 	  <description><![CDATA[<p>In this episode, we talk about social media, trends and social conformity, cliques, and mental health in a 21st-century high school social environment.</p><p><a href="https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122">Here</a> is the supplemental article about TikTok that Vera menntioned in the episode.</p>]]></description>
-	  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HvgaoXecKuFrFvsMckmmXolHsYN5zoVY" length="60441944" type="audio/mpeg"/>
+	  <enclosure url="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/episode-audio/SoS%2002-23-24%20small%20edited.mp3" length="60441944" type="audio/mpeg"/>
 	  <guid isPermaLink="false">dc67e038-6205-4395-9324-d544a46c700a</guid>
-	  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+	  <itunes:image href="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/cover-latest.png"/>
 	  <itunes:duration>2518</itunes:duration>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:season>2</itunes:season>
@@ -100,9 +100,9 @@
 	  <title><![CDATA[Feminism (part 1)]]></title>
 	  <itunes:title><![CDATA[Feminism (part 1)]]></itunes:title>
 	  <description><![CDATA[<p>In this episode, we talk about feminism: what it is and our relationships to gender.</p><p>In particular, this episode focuses on feminine and masculine sterotypes, as well as feminist spaces.</p><p>Note: This episode is split into multiple parts. More episodes are coming after the break, stay tuned!</p>]]></description>
-	  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-Pu_f45agtPM5WQvVAn6XGFXQphX3xUh" length="25651681" type="audio/mpeg"/>
+	  <enclosure url="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/episode-audio/SOS%2003-22-24%20SMALL%20EDITED.mp3" length="25651681" type="audio/mpeg"/>
 	  <guid isPermaLink="false">6b499809-d54e-424d-a589-a176e21d9d4d</guid>
-	  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DdmJumP_jLDrahp4ZVKALNuXqzHMMtay"/>
+	  <itunes:image href="https://pub-20b96cd39e54454f950402233e1837bf.r2.dev/cover-latest.png"/>
 	  <itunes:duration>1830</itunes:duration>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:season>2</itunes:season>
